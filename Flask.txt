@@ -1,0 +1,1 @@
+flask 설치 : pip install Flask
